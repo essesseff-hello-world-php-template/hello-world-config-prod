@@ -2,7 +2,7 @@ replicaCount: 3
 
 image:
   registry: ghcr.io
-  repository: essesseff-hello-world-flask-template/hello-world
+  repository: essesseff-hello-world-fastapi-template/hello-world
   pullPolicy: IfNotPresent
   tag: 1.0.0-abc123-20250930T120000Z
 

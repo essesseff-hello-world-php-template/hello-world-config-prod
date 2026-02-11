@@ -6,7 +6,7 @@ Helm chart for PROD environment.
 
 - **Environment**: PROD
 - **Auto-Deploy**: Yes (typically by Release Engineer decision via essesseff)
-- **Namespace**: `essesseff-hello-world-flask-template`
+- **Namespace**: `essesseff-hello-world-fastapi-template`
 
 ## Updates
 
